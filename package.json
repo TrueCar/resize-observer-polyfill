@@ -1,5 +1,5 @@
 {
-    "name": "@truecar/resize-observer-polyfill",
+    "name": "truecar-resize-observer-polyfill",
     "author": "Denis Rul <que.etc@gmail.com>",
     "version": "1.5.1",
     "description": "A polyfill for the Resize Observer API",
